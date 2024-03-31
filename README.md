@@ -37,7 +37,7 @@ Experiment
 
 <img src="weight_distribution.png" width="400">
 
-*中心度展示圖
+* 中心度展示圖
 
 <img src="graph_visualization.png" width="400">
 <img src="graph_visualization2.png" width="400">
